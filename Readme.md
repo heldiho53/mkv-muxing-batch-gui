@@ -1,3 +1,14 @@
+# HOW TO MAKE THIS WORK IN LINUX
+1. Clone the repo (the latest commit in my repo)
+2. Install pyenv
+3. pyenv install 3.8.0
+4. pyenv init
+5. add to bashrc and close shell
+6. pyenv shell 3.8.0
+7. cd into repo folder
+8. pip3.8 install -r requirements.txt
+9. python3 main.py
+10. ENJOY!!!
 # MKV Muxing Batch GUI
 
 App for muxing(merging) videos with [subtitles,audios,chapters,attachments] with many options.
